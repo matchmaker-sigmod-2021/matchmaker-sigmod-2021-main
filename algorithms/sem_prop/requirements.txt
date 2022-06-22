@@ -17,7 +17,7 @@ kiwisolver==1.1.0
 matplotlib==3.1.1
 networkx==2.3
 nltk==3.4.5
-numpy==1.17.2
+numpy==1.22.0
 ontospy==1.9.8.3
 pdbpp==0.10.0
 pyfiglet==0.8.post1
